@@ -1,0 +1,15 @@
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\bin\Debug\net6.0\Seminar7Task2.exe
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\bin\Debug\net6.0\Seminar7Task2.deps.json
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\bin\Debug\net6.0\Seminar7Task2.runtimeconfig.json
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\bin\Debug\net6.0\Seminar7Task2.dll
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\bin\Debug\net6.0\Seminar7Task2.pdb
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\obj\Debug\net6.0\Seminar7Task2.csproj.AssemblyReference.cache
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\obj\Debug\net6.0\Seminar7Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\obj\Debug\net6.0\Seminar7Task2.AssemblyInfoInputs.cache
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\obj\Debug\net6.0\Seminar7Task2.AssemblyInfo.cs
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\obj\Debug\net6.0\Seminar7Task2.csproj.CoreCompileInputs.cache
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\obj\Debug\net6.0\Seminar7Task2.dll
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\obj\Debug\net6.0\refint\Seminar7Task2.dll
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\obj\Debug\net6.0\Seminar7Task2.pdb
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\obj\Debug\net6.0\Seminar7Task2.genruntimeconfig.cache
+C:\Users\lamal\Desktop\Gr3963\Gr3963\Seminar7Task2\obj\Debug\net6.0\ref\Seminar7Task2.dll
